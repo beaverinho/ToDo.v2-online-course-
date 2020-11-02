@@ -1,0 +1,16 @@
+.search-container {
+    display: flex;
+
+}
+
+.search-input {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 10px;
+    
+  }
+
+  .search-button {
+      font-size: 1px;
+      background-color: white;
+}
